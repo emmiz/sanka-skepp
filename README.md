@@ -1,0 +1,4 @@
+# sanka-skepp
+A swedish university project in C++ created 2011
+
+Uppgiften var att skapa ett spel med C++ som sedan skulle spelas i terminalmiljö. Spelet skulle vara det gamla hederliga ”Sänka skepp”, men det skulle bara fungera åt ett håll. När användaren startade spelet skulle två skepp slumpas ut på en spelplan och sedan skulle användaren försöka sänka skeppen genom att ange en ruta som denne ville skjuta på. Om ett skepp fanns på vald ruta skulle skeppet träffas och detta skulle markeras med en ring, men om det däremot inte fanns något skepp skulle detta markeras med ett kryss. Oavsett resultat skulle feedback ges och om användaren lyckades sänka bägge skeppen skulle spelet avslutas. Användaren skulle alltså inte själv slumpa ut några skepp som datorn i sin tur skulle sänka. Målet med spelet skulle vara att sänka skeppen på så få antal skott som möjligt.
